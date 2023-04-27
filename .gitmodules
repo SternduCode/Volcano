@@ -1,0 +1,12 @@
+[submodule "Multicore"]
+	path = Multicore
+	url = https://github.com/SternduCode/Multicore.git
+	branch = main
+[submodule "DataTransfer"]
+	path = DataTransfer
+	url = https://github.com/SternduCode/DataTransfer.git
+	branch = main
+[submodule "Encryption"]
+	path = Encryption
+	url = https://github.com/SternduCode/Encryption.git
+	branch = main
