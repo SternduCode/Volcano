@@ -10,3 +10,7 @@
 	path = Encryption
 	url = https://github.com/SternduCode/Encryption.git
 	branch = main
+[submodule "Bridge"]
+    path = Bridge
+    url = https://github.com/SternduCode/Bridge.git
+    branch = main
