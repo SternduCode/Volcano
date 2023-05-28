@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DataTransfer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Encryption" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Multicore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Util" vcs="Git" />
   </component>
 </project>

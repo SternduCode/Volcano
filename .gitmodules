@@ -14,3 +14,7 @@
     path = Bridge
     url = https://github.com/SternduCode/Bridge.git
     branch = main
+[submodule "Util"]
+    path = Util
+    url = https://github.com/SternduCode/Util.git
+    branch = main
