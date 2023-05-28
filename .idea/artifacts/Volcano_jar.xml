@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Volcano:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Volcano_jar</output-path>
+    <root id="archive" name="Volcano.jar">
+      <element id="module-output" name="Bridge" />
+      <element id="module-output" name="DataTransfer" />
+      <element id="module-output" name="Multicore" />
+      <element id="module-output" name="Util" />
+      <element id="module-output" name="Encryption" />
+      <element id="module-output" name="Balancer" />
+      <element id="module-output" name="JSONLib" />
+    </root>
+  </artifact>
+</component>

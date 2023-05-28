@@ -21,3 +21,6 @@
 [submodule "Balancer"]
 	path = Balancer
 	url = https://github.com/SternduCode/Balancer.git
+[submodule "JSONLib"]
+	path = JSONLib
+	url = https://github.com/SternduCode/JSONLIB.git
