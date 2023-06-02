@@ -16,14 +16,11 @@
     branch = main
 [submodule "Util"]
 	path = Util
-	url = ./Util
+	url = https://github.com/SternduCode/Util.git
     branch = main
 [submodule "Balancer"]
 	path = Balancer
 	url = https://github.com/SternduCode/Balancer.git
 [submodule "JSONLib"]
 	path = JSONLib
-	url = ./JSONLIB
-[submodule "Util"]
-    path = Util
-    url = ./Util
+	url = https://github.com/SternduCode/JSONLIB.git
