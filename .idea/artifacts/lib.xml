@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="lib">
+    <output-path>$PROJECT_DIR$/out/artifacts/Volcano_jar</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="KotlinJavaRuntime" />
+      </element>
+    </root>
+  </artifact>
+</component>
