@@ -1,3 +1,4 @@
 /out/**/*.class
 /out/
 /ff.txt.enc
+/.idea/**/index.pb
