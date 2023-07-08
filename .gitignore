@@ -2,3 +2,5 @@
 /out/
 /ff.txt.enc
 /.idea/**/index.pb
+/.idea/sonarlint/
+/logs/
