@@ -1,5 +1,5 @@
 # Volcano
-Volcano is a Library for (encrypted-) network communication and and network computation
+Volcano is a Library for (encrypted-) network communication and and network computation that can be used standalone as it has a CLI interface
 
 ## Modules
 
