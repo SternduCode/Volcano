@@ -4,3 +4,5 @@
 /.idea/**/index.pb
 /.idea/sonarlint/
 /logs/
+/.profileconfig.json
+/profile*.jfr
