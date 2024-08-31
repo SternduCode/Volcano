@@ -28,7 +28,7 @@ Volcano is a Library for (encrypted-) network communication and network computat
 
 ## Planned Modules
 
-+ Spider
++ Spyder
   > Connects multiple devices together to form communication networks and/or computation networks
 
 + Compute
