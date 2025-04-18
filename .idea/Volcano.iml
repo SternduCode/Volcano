@@ -8,9 +8,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-  </component>
-  <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="701014c8-346b-4bf9-9eb4-92d46a1b62aa" />
   </component>
 </module>
