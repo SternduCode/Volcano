@@ -2,13 +2,13 @@
   <artifact type="jar" build-on-make="true" name="Volcano:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Volcano_jar</output-path>
     <root id="archive" name="Volcano.jar">
-      <element id="module-output" name="Bridge" />
-      <element id="module-output" name="DataTransfer" />
-      <element id="module-output" name="Multicore" />
-      <element id="module-output" name="Util" />
-      <element id="module-output" name="Encryption" />
-      <element id="module-output" name="Balancer" />
-      <element id="module-output" name="JSONLib" />
+      <element id="module-output" name="Volcano.JSONLib.main" />
+      <element id="module-output" name="Volcano.Util.main" />
+      <element id="module-output" name="Volcano.Balancer.main" />
+      <element id="module-output" name="Volcano.Bridge.main" />
+      <element id="module-output" name="Volcano.DataTransfer.main" />
+      <element id="module-output" name="Volcano.Encryption.main" />
+      <element id="module-output" name="Volcano.Multicore.main" />
     </root>
   </artifact>
 </component>
