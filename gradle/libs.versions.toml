@@ -1,5 +1,6 @@
 [versions]
-kotlin = "2.2.21"
+kotlin = "2.3.0-RC3"
+jvm = "25"
 
 [plugins]
 kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }

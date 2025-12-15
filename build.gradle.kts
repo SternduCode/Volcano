@@ -7,8 +7,8 @@ java {
 }
 
 kotlin {
-	jvmToolchain(25)
+	jvmToolchain(libs.versions.jvm.get().toInt())
 	compilerOptions {
-		freeCompilerArgs.add("-Xjvm-default=all")
+		freeCompilerArgs.add("-jvm-default=enable")
 	}
 }
