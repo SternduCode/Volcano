@@ -11,7 +11,6 @@ dependencyResolutionManagement {
 rootProject.name = "Volcano"
 
 include(":Util")
-include(":JSONLib")
 include(":Balancer")
 include(":Multicore")
 include(":Encryption")

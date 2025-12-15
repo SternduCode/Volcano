@@ -12,7 +12,6 @@
             <option value="$PROJECT_DIR$/Bridge" />
             <option value="$PROJECT_DIR$/DataTransfer" />
             <option value="$PROJECT_DIR$/Encryption" />
-            <option value="$PROJECT_DIR$/JSONLib" />
             <option value="$PROJECT_DIR$/Multicore" />
             <option value="$PROJECT_DIR$/Util" />
           </set>
