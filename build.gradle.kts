@@ -1,5 +1,5 @@
 plugins {
-	kotlin("jvm") version "2.1.0"
+	alias(libs.plugins.kotlinJvm)
 }
 
 java {
@@ -7,7 +7,7 @@ java {
 }
 
 kotlin {
-	jvmToolchain(23)
+	jvmToolchain(25)
 	compilerOptions {
 		freeCompilerArgs.add("-Xjvm-default=all")
 	}
