@@ -3,7 +3,7 @@ kotlin = "2.3.0"
 jvm = "25"
 ktor = "3.3.3"
 kotlinx-coroutines = "1.10.2"
-postgres-connector = "42.7.8"
+postgres-connector = "42.7.9"
 
 [libraries]
 postgres-java-client = { module = "org.postgresql:postgresql", version.ref = "postgres-connector" }
