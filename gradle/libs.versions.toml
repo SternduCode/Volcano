@@ -3,8 +3,10 @@ kotlin = "2.3.0"
 jvm = "25"
 ktor = "3.3.3"
 kotlinx-coroutines = "1.10.2"
+postgres-connector = "42.7.8"
 
 [libraries]
+postgres-java-client = { module = "org.postgresql:postgresql", version.ref = "postgres-connector" }
 ktor-serverCore = { module = "io.ktor:ktor-server-core-jvm", version.ref = "ktor" }
 ktor-serverNetty = { module = "io.ktor:ktor-server-netty-jvm", version.ref = "ktor" }
 ktor-server-cors = { module = "io.ktor:ktor-server-cors", version.ref = "ktor" }
