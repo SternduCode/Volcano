@@ -32,8 +32,7 @@ jobs:
         java-version: '25'
         distribution: 'temurin'
         architecture: x64
-    - name: Build with Gradle
+    - name: Setup with Gradle
       uses: gradle/actions/setup-gradle@v3
-      with:
-        arguments: build
-        gradle-version: current
+    - name: Build
+      run: ./gradlew build
