@@ -33,7 +33,7 @@ jobs:
         distribution: 'temurin'
         architecture: x64
     - name: Setup with Gradle
-      uses: gradle/actions/setup-gradle@v3
+      uses: gradle/actions/setup-gradle@v5
     - name: Make gradlew executable
       run: chmod +x ./gradlew
     - name: Build
