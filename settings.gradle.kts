@@ -10,7 +10,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Volcano"
 
-include(":Util")
 include(":Balancer")
 include(":Multicore")
 include(":Encryption")

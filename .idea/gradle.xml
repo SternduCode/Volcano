@@ -13,7 +13,6 @@
             <option value="$PROJECT_DIR$/DataTransfer" />
             <option value="$PROJECT_DIR$/Encryption" />
             <option value="$PROJECT_DIR$/Multicore" />
-            <option value="$PROJECT_DIR$/Util" />
           </set>
         </option>
       </GradleProjectSettings>
