@@ -15,9 +15,6 @@ Volcano is a Library for (encrypted-) network communication and network computat
 + MultiCore
   > Enables background tasks to be executed
 
-+ Util
-  > Utilities //Will soon be removed
-
 ## Work in progress Modules
 
 + Balancer
