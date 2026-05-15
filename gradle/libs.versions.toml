@@ -2,7 +2,7 @@
 kotlin = "2.3.21"
 jvm = "25"
 ktor = "3.5.0"
-kotlinx-coroutines = "1.10.2"
+kotlinx-coroutines = "1.11.0"
 
 [libraries]
 ktor-serverCore = { module = "io.ktor:ktor-server-core-jvm", version.ref = "ktor" }
