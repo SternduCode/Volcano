@@ -1,7 +1,7 @@
 [versions]
 kotlin = "2.4.20"
 jvm = "25"
-ktor = "3.6.0"
+ktor = "3.6.1"
 kotlinx-coroutines = "1.11.0"
 
 [libraries]
